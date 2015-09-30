@@ -2,7 +2,7 @@
 
 ## Install
 
-jspm install ng=github:Hypercubed/systemjs-plugin-html
+jspm install ng=github:Hypercubed/systemjs-plugin-ng
 
 ## Usage
 
