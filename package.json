@@ -1,0 +1,31 @@
+{
+  "name": "system-ng",
+  "version": "0.0.1",
+  "description": "SystemJS plugin for ng-annotate",
+  "main": "ng.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forresto/system-coffee.git"
+  },
+  "keywords": [
+    "systemjs",
+    "loader",
+    "plugin",
+    "ng-annotate"
+  ],
+  "author": "Jayson Harshbarger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hypercubed/systemjs-plugin-ng/issues"
+  },
+  "homepage": "https://github.com/Hypercubed/systemjs-plugin-ng/",
+  "jspm": {
+    "dependencies": {
+      "ng-annotate": "npm:ng-annotate@^1.0.2"
+    },
+    "devDependencies": {
+      "traceur": "github:jmcriffey/bower-traceur@0.0.87",
+      "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.87"
+    }
+  }
+}
