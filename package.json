@@ -1,6 +1,6 @@
 {
   "name": "system-ng",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SystemJS plugin for ng-annotate",
   "main": "ng.js",
   "repository": {
